@@ -1,7 +1,6 @@
 # Titanic Survival Prediction
 
 ## Описание проекта
-ML project predicting Titanic survival
 Предсказание выживаемости пассажиров на основе датасета Titanic (Kaggle)
 
 ## Данные
